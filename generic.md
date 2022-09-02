@@ -6,8 +6,9 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<h3 id="PhD">Publications</h3>
+<u>Bogaert, S.</u>, Davis, J., Van Rossom, S., Vanwanseele, B. (2022). <a href="https://www.mdpi.com/1424-8220/22/8/2860">Impact of Gender and Feature Set on Machine-Learning-Based Prediction of Lower-Limb Overuse Injuries Using a Single Trunk-Mounted Accelerometer.</a> SENSORS, 22 (8), Art.No. ARTN 2860. doi: 10.3390/s22082860
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<h3 id="PhD">Prizes</h3>
+In 2020, Imec awarded my master thesis "Quantum Capsule Neural Networks". 
