@@ -14,15 +14,20 @@
 
     <!-- Banner -->
     <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-		<h1><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-            </div>
-
-        </div>
+	<div class="box alt">
+		<div class="row 50% uniform">
+			<div class="3u">
+				<header class="major">
+					<h1>{{ page.landing-title }}</h1>
+				</header>
+				<div class="content">
+					<p style="text-transform: uppercase;">{{ site.description }}</p>
+				</div>
+			</div>
+			<div class="3u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		</div>
+	</div>
+	    
     </section>
 
 
