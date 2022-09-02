@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: PhD student
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
