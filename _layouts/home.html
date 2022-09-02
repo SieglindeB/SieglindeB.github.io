@@ -15,16 +15,12 @@
     <!-- Banner -->
     <section id="banner" class="major">
 	    <div class="inner">
-		
-	    	<span class="image right">
-		      <img src="{% link assets/images/pic08.jpg %}" alt="" />
-			<header class="major">
-			      <h1>{{ page.landing-title }}</h1>
-			</header>
-			<div class="content">
-			       <p style="text-transform: uppercase;">{{ site.description }}</p>
-			</div>
-		</span>
+		<header class="major">
+			<h1><img src="{% link assets/images/pic08.jpg %}" alt="" />{{ page.landing-title }}</h1>
+		</header>
+		<div class="content">
+			<p style="text-transform: uppercase;">{{ site.description }}</p>
+		</div>
 	    </div>
 	    
     </section>
