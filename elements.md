@@ -29,7 +29,7 @@ nav-menu: true
 		<ul>
 			<li>Advanced Master in Artificial Intelligence at KU Leuven [July 2021]</li>
 			<li>Erasmus Mundus Master of Nanoscience and Nanotechnology, jointly at KU Leuven and Chalmers (Sweden). [July 2020]</li>
-			<li>Bachelor in Bioscience Engineering. [June 2018]</li>
+			<li>Bachelor in Bioscience Engineering at KU Leuven. [June 2018]</li>
 		</ul>
 		</p>
 		
