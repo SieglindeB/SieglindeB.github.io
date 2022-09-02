@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: assets/images/pic01.jpg
+image: assets/images/Sieglinde_Bogaert.jpg
 nav-menu: true
 ---
 
