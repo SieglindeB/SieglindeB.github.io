@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-You can reach me on "my frist name"."my last name"@kuleuven.be
+You can reach me on <i>FirstName</i>.<i>LastName</i>@kuleuven.be
