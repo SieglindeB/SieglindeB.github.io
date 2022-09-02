@@ -20,7 +20,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h2 id="PhD">PhD student</h2>
 		<p>Hi, I am Sieglinde Bogaert, a PhD student at the <a href="https://gbiomed.kuleuven.be/english/research/50000737/groups/HMB">Human Movement Biomechanics</a> research group at the KU Leuven in Belgium since October 2021. I perform my research under the supervision of professor Benedicte Vanwanseele and professor <a href="https://people.cs.kuleuven.be/~jesse.davis/">Jesse Davis</a>. 
-		My research focuses on the application of machine learning techniques to sports biomechanics challenges.</p>
+		My research focuses on the application of machine learning techniques to sports-biomechanics challenges.</p>
 	</div>
 	
 	<div class="6u$ 12u$(small)">
