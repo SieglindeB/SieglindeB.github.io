@@ -10,4 +10,4 @@ nav-menu: true
 
 
 <h3 id="PhD">Prizes</h3>
-In 2020, Imec awarded my master thesis "Quantum Capsule Neural Networks". 
+In 2020, Imec awarded my master thesis "Quantum Capsule Neural Networks" for its excellence. 
