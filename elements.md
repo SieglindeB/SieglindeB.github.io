@@ -34,12 +34,9 @@ nav-menu: true
 		</p>
 		
 		
-		
+</div>
 
 		
-
-
-<h2 id="content">Academic Education</h2>
 		
 </div>
 </section>
