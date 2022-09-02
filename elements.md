@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-Hi, I am Sieglinde Bogaert, a PhD student at the <a href="[url](https://gbiomed.kuleuven.be/english/research/50000737/groups/HMB)">Human Movement Biomechanics</a> Research group at the KU Leuven in Belgium. 
+Hi, I am Sieglinde Bogaert, a PhD student at the <a href="https://gbiomed.kuleuven.be/english/research/50000737/groups/HMB">Human Movement Biomechanics</a> Research group at the KU Leuven in Belgium. I perform my research under the supervision of Professor Benedicte Vanwanseele and Professor Jesse Davis. 
 		
 		
 </div>
