@@ -18,18 +18,24 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h2 id="PhD">PhD student</h2>
+		<p>Hi, I am Sieglinde Bogaert, a PhD student at the <a href="https://gbiomed.kuleuven.be/english/research/50000737/groups/HMB">Human Movement Biomechanics</a> research group at the KU Leuven in Belgium since October 2021. I perform my research under the supervision of professor Benedicte Vanwanseele and professor <a href="https://people.cs.kuleuven.be/~jesse.davis/">Jesse Davis</a>. 
+		My research focuses on the application of machine learning techniques to sports biomechanics challenges.</p>
 	</div>
+	
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h2 id="Education">Academic Education</h2>
+		<p>
+		<ul>
+			<li>Advanced Master in Artificial Intelligence at KU Leuven [July 2021]</li>
+			<li>Erasmus Mundus Master of Nanoscience and Nanotechnology, jointly at KU Leuven and Chalmers (Sweden). [July 2020]</li>
+			<li>Bachelor in Bioscience Engineering. [June 2018]</li>
+		</ul>
+		</p>
 		
 		
 		
-<h2 id="content">PhD researcher</h2>
-Hi, I am Sieglinde Bogaert, a PhD student at the <a href="https://gbiomed.kuleuven.be/english/research/50000737/groups/HMB">Human Movement Biomechanics</a> research group at the KU Leuven in Belgium. I perform my research under the supervision of professor Benedicte Vanwanseele and professor <a href="https://people.cs.kuleuven.be/~jesse.davis/">Jesse Davis</a>. 
-My research focuses on the application of machine learning techniques to sports biomechanics challenges. 
+
 		
 
 
