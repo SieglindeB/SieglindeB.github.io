@@ -13,16 +13,22 @@
     {% include header.html %}
 
     <!-- Banner -->
-
-	
     <section id="banner" class="major">
 	    <div class="inner">
-		<header class="major">
-			<h1>{{ page.landing-title }}</h1>
-		</header>
-		<div class="content">
-			<p style="text-transform: uppercase;">{{ site.description }}</p>
-		</div>
+		    <div class="box">
+			<div class="left">
+				<header class="major">
+					<h1>{{ page.landing-title }}</h1>
+				</header>
+				<div class="content">
+					<p style="text-transform: uppercase;">{{ site.description }}</p>
+				</div>
+			</div>
+			<div class="right">
+				<span class="image fit"><img src="{% link assets/images/Sieglinde_Bogaert.jpg %}" alt="" /></span>
+			</div>
+		    </div>
+		
 	    </div>
 	    
     </section>
