@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Site is under construction...'
+landing-title: 'Hi, I am Sieglinde Bogaert'
 description: null
 image: assets/images/Sieglinde_Bogaert.jpg
 author: null
